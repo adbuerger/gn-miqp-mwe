@@ -16,7 +16,7 @@ The source code for the examples provided in this repository is released under t
 
 ## References
 <a id="1">[1]</a> 
-A Bürger, C Zeile, A Altmann-Dieses, S Sager, and M Diehl. A Gauss-Newton-based decomposition algorithm for nonlinear mixed-integer optimal control problems. Submitted, 2022. Available at https://optimization-online.org/2022/04/8890/.
+A Bürger, C Zeile, A Altmann-Dieses, S Sager, and M Diehl. A Gauss-Newton-based decomposition algorithm for nonlinear mixed-integer optimal control problems. Automatica 152, 110967, 2023. Available as an open access article at https://doi.org/10.1016/j.automatica.2023.110967
 
 <a id="2">[2]</a> 
 J B Rawlings, D Q Mayne, and M M Diehl. Model Predictive Control: Theory, Computation, and Design. Nob Hill, 2nd edition, 2020. 3rd printing. Available at https://sites.engineering.ucsb.edu/~jbraw/mpc/.
